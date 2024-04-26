@@ -1,0 +1,44 @@
+title: Résumé
+name: YOUR NAME
+jobtitle: Your Job Title
+contact:
+  - icon: fa-envelope
+    text: ethan@flowerday.me
+    link: mailto:ethan@flowerday.me
+  - icon: fa-phone-square
+    text: 616-298-1184
+  - icon: fa-linkedin
+    text: LinkedIn
+    link: https://linked.in/ethanflowerday
+education:
+  - university: Davenport University
+    duration: Sept 2018 - Apr 2019 | Incomplete
+    location: Grand Rapids, MI
+    major: Bachelor of Science in Network Management and Security
+  - university: Careerline Tech Center
+    duration: Aug 2016 - May 2018
+    location: Holland, MI
+    major: PC & Network Technologies
+skills:
+  - title: AZ 104 - Azure Administrator Associate
+    items: Microsoft | July 28, 2023
+  - title: AZ 900 - Azure Fundamentals
+    items: Microsoft | Dec 2021
+  - title: Customer Service Specialist
+    items: Electronics Technicians Association International | 2018
+experience:
+  - title: RMM Administrator
+    duration: Dec 2019 - Present
+    company: Macatawa Technologies
+    description: Maintained remote monitoring and managing system on 1600+ endpoints. Automated server patching to save 50+ hours of work quarterly. Created, tested, and deployed scripts and monitors to automate various tasks and resolve problems before they occurred. Ensured security tools were deployed and securing systems. Installed and maintained client network devices including servers, switches, firewalls, access points, VOIP and security systems. Performed cloud migrations to Azure and Microsoft 365. Deployed and managed server and workstation backups.
+  - title: IT Technician
+    duration: May 2019 - Dec 2019
+    company: Ottawa Area Intermediate School District
+    description: Provided helpdesk support and repaired devices. Assisted with ransomware incident response. Maintained G Suite for students and teachers. Used a ticketing system. Automated device enrollment process saving time when deploying devices. 
+projects:
+  - name: Project Name 1
+    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    contribution: Contributor.
+  - name: Project Name 2
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    contribution: Creator and maintainer.
